@@ -1,0 +1,213 @@
+{
+    "datosP": [ 
+        { "id": 1, 
+          "img": "https://media.licdn.com/dms/image/D4E03AQExBthx8CoXuA/profile-displayphoto-shrink_400_400/0/1691107583488?e=1696464000&v=beta&t=lYQHS7wmlELhLU9mcAY9ymZtRCWKJz7_VSjS3ghDhIY", 
+          "nombres": "Jessie Paola", 
+          "apellidos": "Uribe Lagos",
+          "edad": "35", 
+          "fechaNacimiento": "13/01/1988", 
+          "telefono": "+56 9 92325987", 
+          "direccion": "Copernico 01862", 
+          "ciudad": "Temuco", 
+          "pais": "Chile" 
+        }
+    ],
+    "estudiosPrimario":[
+      {
+        "nombrebasica":"Colegio Amanecer",
+        "cursado":"1 y 2 Básico",
+        "anio":"1994 - 1995"
+      },
+      {
+        "nombrebasica":"Colegio Emprender",
+        "cursado":"3 a 8 Básico",
+        "anio":"1996 - 2001"
+      }
+    ],
+    
+    "estudioSecundario":[
+    {
+        "nombreMedia": "Liceo Comercial del Desarrollo",
+        "cursadoM": "1 a 4 medio",
+        "anioM": "2002 - 2005",
+        "tituloM": "Ventas y Administración de Empresas"
+    }
+  ],
+  "bootCamps":[
+    {
+      "imgTitulo":"https://img.genial.ly/5fa43585f6579c0f6aa2e94a/a58d529b-b132-4064-8c75-cdc0043b4a98.png",
+      "nombreBoot":"BOOTCAM Desarrollo de Aplicaciones Front-end Trainee V2.0",
+      "institucion":"E-camp Chile",
+      "anioBoot":" 2023 ",
+      "horas":"780",
+      "certificacion":"En proceso",
+      "seleccionador":"Talento Digital Chile y Sence"
+    },
+    {
+      "imgTitulo":"https://media.licdn.com/dms/image/D4D22AQF84r7Jh6V7ag/feedshare-shrink_2048_1536/0/1691098316278?e=1694044800&v=beta&t=iojGgvHvCIiBiNIjH5Nf0gJOnV2ah3qCQUd2TOGBupE",
+      "nombreBoot":"English for Developer Course",
+      "institucion":"E-camp Chile",
+      "anioBoot":"2023",
+      "horas":"50",
+      "certificacion":"Certificado",
+      "seleccionador":"E-camp, Edutecno, Talento Digital y Sence "
+    },
+    {
+      "imgTitulo":"https://media.licdn.com/dms/image/D4D22AQGfcsF05q2wtg/feedshare-shrink_2048_1536/0/1691098316393?e=1694044800&v=beta&t=AUDRZtcqD9IyeCDiodyhPYcSjGYoL_chl14aAhdl_sM",
+      "nombreBoot":"Onboarding to Artificial Intelligence Applications",
+      "institucion":"E-camp Chile",
+      "anioBoot":"2023",
+      "horas":"50",
+      "certificacion":"Certificado",
+      "seleccionador":"E-camp, Edutecno, Talento Digital y Sence "
+    },
+    {
+      "imgTitulo":"https://media.licdn.com/dms/image/D4E22AQF_GiyYFRp7nQ/feedshare-shrink_1280/0/1691153785109?e=1694044800&v=beta&t=pmMjCH2BCvjVnoX7zLeXGpXTHdCIVqft58NV60_sdXU",
+      "nombreBoot":"Bootcam Application Development Full Stack Java Trainee V2.0",
+      "institucion":"AIEP",
+      "anioBoot":" 2022 ",
+      "horas":"704",
+      "certificacion":"Certificado e Insignia digital",
+      "seleccionador":"Talento Digital Chile y Sence"
+    },
+    {
+      "imgTitulo":"https://media.licdn.com/dms/image/D4E22AQEVpb4SOSTjow/feedshare-shrink_800/0/1691153785166?e=1694044800&v=beta&t=ye4OSG45EZfwhvEyLMLCK1Tg9KdSP8jvKKaqZmbFwc4",
+      "nombreBoot":"Diseño Web con HTML 5 + CSS",
+      "institucion":"AIEP",
+      "anioBoot":"2022",
+      "horas":"30",
+      "certificacion":"Diplomado",
+      "seleccionador":"AIEP, Fundacion Telefonica Movistar y Sence"
+    },
+    {
+      "imgTitulo":"https://media.licdn.com/dms/image/D4E22AQHIjlTIvLDjdw/feedshare-shrink_800/0/1691153784229?e=1694044800&v=beta&t=XOJTJRL3oFlaRmf1hhc_hYuHSykR9P9F8UEq-DWmXSw",
+      "nombreBoot":"Fundamentos de Programación",
+      "institucion":"Telefonica Movistar",
+      "anioBoot":"2022",
+      "horas":"40",
+      "certificacion":"Diplomado",
+      "seleccionador":"Fundacion Telefonica Movistar y Sence"
+    },
+    {
+      "imgTitulo":"https://media.licdn.com/dms/image/C4D2DAQFZDiX0A6ZPfQ/profile-treasury-image-shrink_800_800/0/1655514952708?e=1691758800&v=beta&t=Ni_xjwbowre7bwsHRAY71u8M4caIZFrdAcccixztY6k",
+      "nombreBoot":"Programación con JavaScript",
+      "institucion":"AIEP",
+      "anioBoot":"2022",
+      "horas":"40",
+      "certificacion":"Diplomado",
+      "seleccionador":"AIEP, Fundacion Telefonica Movistar y Sence"
+    },
+    {
+      "imgTitulo":"https://media.licdn.com/dms/image/C4D2DAQH-2KHs3xapGg/profile-treasury-image-shrink_800_800/0/1655514814923?e=1691758800&v=beta&t=RYLWzx-NDNkh-hh2yQlem9zw1pN5992FV5Zb8kJusXg",
+      "nombreBoot":"Aprende Wordpress de Forma Sencilla",
+      "institucion":"AIEP",
+      "anioBoot":"2022",
+      "horas":"30",
+      "certificacion":"Diplomado",
+      "seleccionador":"AIEP, Fundacion Telefonica Movistar y Sence"
+    }
+    
+  ],
+  "contacto":[
+    {
+      "git":"https://github.com/PaolaUribe88",
+      "lk":"https://www.linkedin.com/in/jessieuribe/",
+      "disc":"_paolauribe",
+      "email":"paolauribe88@gmail.com",
+      "wt":"+56 9 92325987",
+      "free":"https://www.freecodecamp.org/fcc8f26a80d-b3fc-4408-b179-a3e4aee9dfb3"
+    }
+  ],
+  "trabajos":[
+    {
+      "nombreEmpresa":"Transporte Uribe",
+      "descripcion":"Desempeña funciones de cobranza y facturación, además de trato con corredores y clientes",
+      "fechaInicio":"2010",
+      "fechaTermino":"A la Fecha",
+      "recomendacion":"Alejandro Uribe",
+      "numeroContacto":"+56 9 68390415"
+    },
+    {
+      "nombreEmpresa":"Transportes Yago",
+      "descripcion":"Desempeña funciones de cobranza y facturación, además de trato con corredores y clientes",
+      "fechaInicio":"Septiembre 2020",
+      "fechaTermino":"A la Fecha",
+      "recomendacion":"Fredy Yañez",
+      "numeroContacto":"+56 9 83118673"
+    },
+    {
+      "nombreEmpresa":"Transportes M&A",
+      "descripcion":"Desempeña funciones de cobranza y facturación, además de trato con corredores y clientes",
+      "fechaInicio":"Mayo 2021",
+      "fechaTermino":"A la Fecha",
+      "recomendacion":"Fredy Yañez",
+      "numeroContacto":"+56 9 83118673"
+    },
+    {
+      "nombreEmpresa":"Transportes Julio Martinez",
+      "descripcion":"Desempeña funciones de cobranza y facturación, además de trato con corredores y clientes",
+      "fechaInicio":"Agosto 2020",
+      "fechaTermino":"A la Fecha",
+      "recomendacion":"Julio Martinez",
+      "numeroContacto":"+56 9 90159124"
+    },
+    {
+      "nombreEmpresa":"Startech PYP",
+      "descripcion":"Pyme desempeña labores de servicio técnico de reparación de computadores y smartphone Cambio de pantallas, baterías, dock de carga, lavados químicos, etc",
+      "fechaInicio":"2016",
+      "fechaTermino":"A la Fecha",
+      "recomendacion":"Pilar Cabas",
+      "numeroContacto":"+56 9 745000366"
+    }
+  ],
+  "producciones":[
+    {
+      "imgProyecto":"https://i.ibb.co/BZ9xgbV/cursos.jpg",
+      "nompreProyecto":"Pagina de toma de cursos y inscripción ",
+      "linkProyecto":"https://paolauribe88.github.io/practica_consolidacion_final_m7_produccion/",
+      "codigoProyecto":"https://github.com/PaolaUribe88/practica_consolidacion_final_m7"
+    },
+    {
+      "imgProyecto":"https://i.ibb.co/nLZbwR0/juegos.jpg",
+      "nompreProyecto":"Consumo Api Juegos Game opinion",
+      "linkProyecto":"https://paolauribe88.github.io/practica_consolidacion_modulo_6_api_juegos_produccion/",
+      "codigoProyecto":"https://github.com/PaolaUribe88/practica_consolidacion_modulo_6_api_juegos"
+    },
+    {
+      "imgProyecto":"https://i.ibb.co/HNzcm2g/peliculas.jpg",
+      "nompreProyecto":"Consumo Api, Peliculas",
+      "linkProyecto":"https://paolauribe88.github.io/proyecto_peliculas_sesion_cinco_produccion/",
+      "codigoProyecto":"https://github.com/PaolaUribe88/proyecto_peliculas_sesion_cinco"
+    },
+    {
+      "imgProyecto":"https://i.ibb.co/ngKN4Ln/carritocompras.jpg",
+      "nompreProyecto":"Carrito de Compras, con totales y descueltos",
+      "linkProyecto":"https://paolauribe88.github.io/proyecto_consolidacion_carrito_compras_produccion/",
+      "codigoProyecto":"https://github.com/PaolaUribe88/proyecto_consolidacion_carrito_compras"
+    },
+    {
+      "imgProyecto":"https://i.ibb.co/YTBmdxX/formulario.jpg",
+      "nompreProyecto":"Consumo Imagenes, Formularios, ingreso y eliminacion de juegos",
+      "linkProyecto":"https://paolauribe88.github.io/ejercicios_comprobacion_vue_cli_produccion/",
+      "codigoProyecto":"https://github.com/PaolaUribe88/ejercicios_comprobacion_vue_cli"
+    },
+    {
+      "imgProyecto":"https://i.ibb.co/cxsKLDn/tercer.jpg",
+      "nompreProyecto":"Consumo Imagenes",
+      "linkProyecto":"https://paolauribe88.github.io/tercer_proyecto_vue_cli_produccion/",
+      "codigoProyecto":"https://github.com/PaolaUribe88/tercer_proyecto_vue_cli"
+    },
+    {
+      "imgProyecto":"https://i.ibb.co/GVvFkMy/pizzeria.jpg",
+      "nompreProyecto":"Pizzeria, menu agrega y propinas",
+      "linkProyecto":"https://paolauribe88.github.io/ejercicioComprobacionS3Pizzeria2.0BuonaPizza/",
+      "codigoProyecto":"https://paolauribe88.github.io/ejercicioComprobacionS3Pizzeria2.0BuonaPizza/"
+    },
+    {
+      "imgProyecto":"https://i.ibb.co/WyQyv4R/itinerario.jpg",
+      "nompreProyecto":"Itinerario de Vuelos",
+      "linkProyecto":"https://paolauribe88.github.io/EjercicioComprobacionS4ItineratiodeVuelos/",
+      "codigoProyecto":"https://paolauribe88.github.io/EjercicioComprobacionS4ItineratiodeVuelos/"
+    }
+  ]
+}
